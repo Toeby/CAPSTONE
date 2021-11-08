@@ -1,0 +1,7 @@
+/* Container for the entire card*/
+#container{
+  /*background-color: blue;*/
+  width:30%;
+  margin: 30px auto;
+  border-radius: 20px;
+}
