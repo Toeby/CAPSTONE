@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="styles.css">
+  
+  <title>Frontend Mentor | Order summary card</title>
+
+</head>
+  <body>
+
+        
+
+      <div class="buttons">
+        <div><button class="btn btn-primary">Proceed to Payment</button></div>
+        <div><button class="btn btn-secondary">Cancel Order"</button></div>
+      </div>
+    </div>
+    
+    
+  </body>
+</html>
+
+
+
+
+/*styles.css
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+    border: none;
+    padding: 5px, 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.btn-change{
+    background-color: transparent;
+    color: hsl(245, 75%, 52%);
+    text-decoration: underline;
+
+}
+
+.btn-primary{
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-primary:hover, 
+.btn-change:hover {
+    opacity: 0.8;
+}
+
+.btn-secondary{
+    background-color:transparent;
+    color: hsl(224, 23%, 55%);
+}
+
+.btn-secondary:hover{
+    color: hsl(223, 47%, 23%);
+}
